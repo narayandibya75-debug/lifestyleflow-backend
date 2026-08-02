@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+requests==2.32.3
+# edge-tts intentionally uses >= instead of an exact pin: Microsoft
+# periodically tightens the undocumented token validation this library
+# reverse-engineers (the Sec-MS-GEC handshake), and the maintainers patch
+# it quickly — an old exact pin here reliably breaks narration generation
+# with a 403 "Invalid response status" error every few months. If you hit
+# that error, `pip install --upgrade edge-tts` first before anything else.
+edge-tts>=7.2.8
+faster-whisper==1.1.0
+torch==2.5.1
+transformers==4.47.1

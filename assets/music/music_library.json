@@ -1,0 +1,233 @@
+[
+    {
+        "file": "cinematic/kulakovka-no-copyright-music-270241.mp3",
+        "genre": "Cinematic",
+        "energy": "Medium",
+        "mood": "Cinematic",
+        "bpm": 100
+    },
+    {
+        "file": "cinematic/loksii-no-copyright-music-211881.mp3",
+        "genre": "Cinematic",
+        "energy": "Medium",
+        "mood": "Cinematic",
+        "bpm": 100
+    },
+    {
+        "file": "cinematic/mirostar-no-copyright-music-560284.mp3",
+        "genre": "Cinematic",
+        "energy": "Medium",
+        "mood": "Cinematic",
+        "bpm": 100
+    },
+    {
+        "file": "corporate/alex-morgan-corporate-explainer-video-568180.mp3",
+        "genre": "Corporate",
+        "energy": "Medium",
+        "mood": "Corporate",
+        "bpm": 100
+    },
+    {
+        "file": "corporate/alex-morgan-corporate-startup-promo-568146.mp3",
+        "genre": "Corporate",
+        "energy": "Medium",
+        "mood": "Corporate",
+        "bpm": 100
+    },
+    {
+        "file": "corporate/alex-morgan-corporate-startup-promo-music-559977.mp3",
+        "genre": "Corporate",
+        "energy": "Medium",
+        "mood": "Corporate",
+        "bpm": 100
+    },
+    {
+        "file": "documentary/joyinsound-documentary-background-no-copyright-music-403409.mp3",
+        "genre": "Documentary",
+        "energy": "Medium",
+        "mood": "Documentary",
+        "bpm": 100
+    },
+    {
+        "file": "documentary/nastelbom-no-copyright-music-513426.mp3",
+        "genre": "Documentary",
+        "energy": "Medium",
+        "mood": "Documentary",
+        "bpm": 100
+    },
+    {
+        "file": "educational/absolutesound-no-copyright-music-2-560573.mp3",
+        "genre": "Educational",
+        "energy": "Medium",
+        "mood": "Educational",
+        "bpm": 100
+    },
+    {
+        "file": "educational/loksii-no-copyright-music-211881.mp3",
+        "genre": "Educational",
+        "energy": "Medium",
+        "mood": "Educational",
+        "bpm": 100
+    },
+    {
+        "file": "finance/miromaxmusic-productive-day-no-copyright-486443.mp3",
+        "genre": "Finance",
+        "energy": "Medium",
+        "mood": "Finance",
+        "bpm": 100
+    },
+    {
+        "file": "finance/miromaxmusic-promotion-finance-no-copyright-505216.mp3",
+        "genre": "Finance",
+        "energy": "Medium",
+        "mood": "Finance",
+        "bpm": 100
+    },
+    {
+        "file": "finance/miromaxmusic-warm-ambient-no-copyright-486433.mp3",
+        "genre": "Finance",
+        "energy": "Medium",
+        "mood": "Finance",
+        "bpm": 100
+    },
+    {
+        "file": "fitness/alex-morgan-sports-energetic-background-music-548619.mp3",
+        "genre": "Fitness",
+        "energy": "Medium",
+        "mood": "Fitness",
+        "bpm": 100
+    },
+    {
+        "file": "fitness/soundsurfer-fitness-457844.mp3",
+        "genre": "Fitness",
+        "energy": "Medium",
+        "mood": "Fitness",
+        "bpm": 100
+    },
+    {
+        "file": "food/audiodollar-no-copyright-music-no-copyright-music-motivational-482203.mp3",
+        "genre": "Food",
+        "energy": "Medium",
+        "mood": "Food",
+        "bpm": 100
+    },
+    {
+        "file": "food/fassounds-happy-food-music-431743.mp3",
+        "genre": "Food",
+        "energy": "Medium",
+        "mood": "Food",
+        "bpm": 100
+    },
+    {
+        "file": "food/prettyjohn1-food-503901.mp3",
+        "genre": "Food",
+        "energy": "Medium",
+        "mood": "Food",
+        "bpm": 100
+    },
+    {
+        "file": "food/sunsides-no-copyright-music-151500.mp3",
+        "genre": "Food",
+        "energy": "Medium",
+        "mood": "Food",
+        "bpm": 100
+    },
+    {
+        "file": "gaming/alex-morgan-gaming-rock-545508.mp3",
+        "genre": "Gaming",
+        "energy": "Medium",
+        "mood": "Gaming",
+        "bpm": 100
+    },
+    {
+        "file": "gaming/desifreemusic-bangla-background-music-no-copyright-background-music-218993.mp3",
+        "genre": "Gaming",
+        "energy": "Medium",
+        "mood": "Gaming",
+        "bpm": 100
+    },
+    {
+        "file": "gaming/soundsurfer-gaming-331807.mp3",
+        "genre": "Gaming",
+        "energy": "Medium",
+        "mood": "Gaming",
+        "bpm": 100
+    },
+    {
+        "file": "inspirational/audiocoffee-corporate-event-no-copyright-music-564473.mp3",
+        "genre": "Inspirational",
+        "energy": "Medium",
+        "mood": "Inspirational",
+        "bpm": 100
+    },
+    {
+        "file": "inspirational/daynigthmorning-dreamer-no-copyright-music-566452.mp3",
+        "genre": "Inspirational",
+        "energy": "Medium",
+        "mood": "Inspirational",
+        "bpm": 100
+    },
+    {
+        "file": "inspirational/daynigthmorning-motivational-background-corporate-city-273359.mp3",
+        "genre": "Inspirational",
+        "energy": "Medium",
+        "mood": "Inspirational",
+        "bpm": 100
+    },
+    {
+        "file": "luxury/apalonbeats-luxury-luxury-music-498086.mp3",
+        "genre": "Luxury",
+        "energy": "Medium",
+        "mood": "Luxury",
+        "bpm": 100
+    },
+    {
+        "file": "luxury/monume-luxury-music-luxury-556471.mp3",
+        "genre": "Luxury",
+        "energy": "Medium",
+        "mood": "Luxury",
+        "bpm": 100
+    },
+    {
+        "file": "luxury/soundsurfer-luxury-hotel-262366.mp3",
+        "genre": "Luxury",
+        "energy": "Medium",
+        "mood": "Luxury",
+        "bpm": 100
+    },
+    {
+        "file": "storytelling/absolutesound-no-copyright-music-music-560442.mp3",
+        "genre": "Storytelling",
+        "energy": "Medium",
+        "mood": "Storytelling",
+        "bpm": 100
+    },
+    {
+        "file": "storytelling/alex-morgan-background-music-545525.mp3",
+        "genre": "Storytelling",
+        "energy": "Medium",
+        "mood": "Storytelling",
+        "bpm": 100
+    },
+    {
+        "file": "tech/daynigthmorning-tech-nature-no-copyright-music-413566.mp3",
+        "genre": "Tech",
+        "energy": "Medium",
+        "mood": "Tech",
+        "bpm": 100
+    },
+    {
+        "file": "travel/the_mountain-storytelling-audio-136105.mp3",
+        "genre": "Travel",
+        "energy": "Medium",
+        "mood": "Travel",
+        "bpm": 100
+    },
+    {
+        "file": "travel/vibehorn-background-music-496933.mp3",
+        "genre": "Travel",
+        "energy": "Medium",
+        "mood": "Travel",
+        "bpm": 100
+    }
+]

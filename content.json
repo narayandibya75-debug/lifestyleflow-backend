@@ -1,0 +1,128 @@
+{
+  "topic": "the boundary condition in FSM",
+  "caption": "Master FSM boundary conditions to prevent critical code crashes! 💻🔥",
+  "hashtags": "#coding #computerscience #softwareengineering #gamedevelopment #learncoding #tech",
+  "background_music": {
+    "search_query": "technology ambient electronic background",
+    "mood": "focused",
+    "genre": "electronic",
+    "energy": "medium"
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "voice": "Finite State Machines power everything from game AI to smart vending machines.",
+      "visual_prompt": "A glowing blue digital node network representing a finite state machine, connections lighting up sequentially, cinematic slow dolly forward, vertical format, realistic render, cyber aesthetic.",
+      "pixel_search_prompt": "glowing digital node network system circuit board close up",
+      "search_keywords": [
+        "finite state machine",
+        "digital network",
+        "abstract technology",
+        "data nodes",
+        "glowing circuit"
+      ],
+      "camera": "static",
+      "mood": "cinematic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "high",
+      "transition": "fade"
+    },
+    {
+      "scene": 2,
+      "voice": "But what happens at the absolute edge? Boundary conditions test your system's extreme limits.",
+      "visual_prompt": "A close-up shot of a glowing interface dial reaching the maximum red zone, cinematic macro shot, sharp focus on the warning threshold, dark technical style, vertical format.",
+      "pixel_search_prompt": "macro shot of digital dial reaching maximum red warning zone",
+      "search_keywords": [
+        "gauge maximum",
+        "red warning light",
+        "limit reached",
+        "digital interface",
+        "control panel"
+      ],
+      "camera": "static",
+      "mood": "cinematic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "high",
+      "transition": "cut"
+    },
+    {
+      "scene": 3,
+      "voice": "An unhandled input at the wrong time can cause a total system freeze or crash.",
+      "visual_prompt": "A computer monitor displaying code screen glitching and flashing red, camera zooming in fast, dramatic digital error aesthetic, vertical format.",
+      "pixel_search_prompt": "computer screen flashing red error glitch system failure",
+      "search_keywords": [
+        "computer error",
+        "glitch screen",
+        "system crash",
+        "code failure",
+        "red screen"
+      ],
+      "camera": "static",
+      "mood": "dramatic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "high",
+      "transition": "fade"
+    },
+    {
+      "scene": 4,
+      "voice": "Like counter overflows that wrap around to zero, breaking your logical transitions entirely.",
+      "visual_prompt": "A digital counter rapidly spinning past ninety-nine back to zero with digital noise, dark technical background, clean motion graphics, vertical format.",
+      "pixel_search_prompt": "digital counter spinning rapidly from ninety nine to zero",
+      "search_keywords": [
+        "digital counter",
+        "number counter",
+        "resetting numbers",
+        "system glitch",
+        "data counting"
+      ],
+      "camera": "static",
+      "mood": "cinematic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "medium",
+      "transition": "blur"
+    },
+    {
+      "scene": 5,
+      "voice": "Prevent this by defining default transitions and explicitly handling every out-of-bounds input.",
+      "visual_prompt": "A programmer hand typing secure clean code on a glowing mechanical keyboard, close-up side angle, soft cyberpunk lighting, professional developer environment, vertical format.",
+      "pixel_search_prompt": "programmer hands typing code on glowing mechanical keyboard close up",
+      "search_keywords": [
+        "typing code",
+        "software developer",
+        "cyberpunk keyboard",
+        "writing software",
+        "coding close up"
+      ],
+      "camera": "static",
+      "mood": "cinematic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "high",
+      "transition": "fade"
+    },
+    {
+      "scene": 6,
+      "voice": "Secure your state machines, eliminate bugs, and subscribe for more coding secrets.",
+      "visual_prompt": "An elegant, rotating three-dimensional metallic shield icon with glowing blue circuitry lines, dark reflective background, vertical format, ultra high resolution.",
+      "pixel_search_prompt": "rotating glowing digital security shield icon on dark background",
+      "search_keywords": [
+        "digital shield",
+        "cyber security",
+        "data protection",
+        "technology icon",
+        "futuristic logo"
+      ],
+      "camera": "static",
+      "mood": "cinematic",
+      "asset_type": "video",
+      "duration": 5,
+      "importance": "medium",
+      "transition": "zoom"
+    }
+  ],
+  "script": "Finite State Machines power everything from game AI to smart vending machines. But what happens at the absolute edge? Boundary conditions test your system's extreme limits. An unhandled input at the wrong time can cause a total system freeze or crash. Like counter overflows that wrap around to zero, breaking your logical transitions entirely. Prevent this by defining default transitions and explicitly handling every out-of-bounds input. Secure your state machines, eliminate bugs, and subscribe for more coding secrets."
+}

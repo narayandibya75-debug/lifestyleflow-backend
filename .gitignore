@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables — never commit real secrets
+.env
+.env.local
+.env.*.local
+
+# Generated video output (this is why we mount a persistent disk on Render —
+# don't want gigabytes of generated MP4s/thumbnails in git)
+public/generated/*
+!public/generated/.gitkeep
+
+# OAuth/token storage — contains a live refresh token, must never be committed
+data/*.json
+!data/.gitkeep
+data/*.json.bak
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Downloaded/intermediate media the Python scripts produce during a run
+downloads/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript build info
+*.tsbuildinfo
